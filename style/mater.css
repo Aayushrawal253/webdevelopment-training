@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.title{
+    color: green
+}
+ul>li{
+    display: inline;
+    margin: 5px;
+    padding: 10px;
+}
+ul>li>a{
+    color: black;
+    text-decoration: none;
+}
